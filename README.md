@@ -413,31 +413,6 @@ CSP Suggestion: East
 
 FINAL STATE:
 {'North': 5, 'South': 10, 'East': 10, 'West': 8}
-```
-
----
-
-# 🚀 How to Run
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/your-username/Traffic_Signal_Optimization.git
-```
-
-## Step 2: Navigate to Project Folder
-
-```bash
-cd Traffic_Signal_Optimization
-```
-
-## Step 3: Run the Program
-
-```bash
-python main.py
-```
-
----
 
 # 💡 Features
 
@@ -499,19 +474,3 @@ Implement and analyze search algorithms:
 ## CO3
 
 Apply CSP techniques for intelligent scheduling and optimization.
-
----
-
-# 👨‍💻 Author
-
-**Ritvik Reddy Bhavanam**
-
-Artificial Intelligence Mini Project
-
-Rule-Based Traffic Signal Optimization System
-
----
-
-# 📜 License
-
-This project is developed for educational and academic purposes.
